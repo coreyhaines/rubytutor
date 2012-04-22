@@ -1,0 +1,23 @@
+.questionnaire-link {
+  text-align: center;
+}
+
+.questionnaire-link .btn {
+  font-size: 24px;
+  padding: 10px;
+background-color: hsl(0, 69%, 23%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#b92121", endColorstr="#631212");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#b92121), to(#631212));
+  background-image: -moz-linear-gradient(top, #b92121, #631212);
+  background-image: -ms-linear-gradient(top, #b92121, #631212);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #b92121), color-stop(100%, #631212));
+  background-image: -webkit-linear-gradient(top, #b92121, #631212);
+  background-image: -o-linear-gradient(top, #b92121, #631212);
+  background-image: linear-gradient(#b92121, #631212);
+  border-color: #631212 #631212 hsl(0, 69%, 18%);
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.33);
+  -webkit-font-smoothing: antialiased;
+
+}
